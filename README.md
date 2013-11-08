@@ -1,4 +1,4 @@
-mCuties
+Cuties Mobile
 =======
 
-Cuties Mobile
+The mobility version of Cuties.
